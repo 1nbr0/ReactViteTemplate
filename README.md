@@ -1,16 +1,28 @@
-# React + Vite + Material-Tailwind & TailwindCss
+# React Vite Template 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal, modern, ready-to-use template to start any React project using [Vite](https://vitejs.dev/), [TailwindCSS](https://tailwindcss.com/), and [Material Tailwind](https://www.material-tailwind.com/).
 
-Currently, two official plugins are available:
+Built for 2025+ projects with **React 19**, **Vite 5**, **ESLint**, **Prettier**, and **CI/CD** support.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-# Doc Material-Tailwind V.2.1.9
+## ✨ Features
 
-- [@material-tailwind/react V.2.1.9](https://www.material-tailwind.com/docs/react/installation)
+- ⚛️ React 19 (Concurrent rendering ready)
+- ⚡ Vite 5 (Super fast HMR)
+- 🎨 TailwindCSS 3.4
+- 💎 Material Tailwind 2
+- 🛠️ ESLint + Prettier setup
+- 🚦 GitHub Actions and GitLab CI ready
+- 🧩 File structure ready for scaling (pages, hooks, router, utils)
 
-# Doc TailwindCss V.3.4.3
+---
 
-- [tailwindcss V.3.4.3](https://tailwindcss.com/docs/installation)
+## 🛠️ Quick Start
+
+```bash
+git clone https://github.com/1nbr0/ReactViteTemplate.git
+cd ReactViteTemplate
+npm install
+npm run dev
+```
